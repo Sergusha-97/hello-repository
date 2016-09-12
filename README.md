@@ -1,2 +1,1 @@
-# hello-repository
-Just another repository
+Hi, it's my first repository on github!
